@@ -1,10 +1,10 @@
 package etfclientexample
 
 import (
-	"github.com/huobirdcenter/huobi_golang/config"
-	"github.com/huobirdcenter/huobi_golang/logging/applogger"
-	"github.com/huobirdcenter/huobi_golang/pkg/client"
-	"github.com/huobirdcenter/huobi_golang/pkg/model/etf"
+	"github.com/sevengrand/huobi_Golang/config"
+	"github.com/sevengrand/huobi_Golang/logging/applogger"
+	"github.com/sevengrand/huobi_Golang/pkg/client"
+	"github.com/sevengrand/huobi_Golang/pkg/model/etf"
 )
 
 func RunAllExamples() {

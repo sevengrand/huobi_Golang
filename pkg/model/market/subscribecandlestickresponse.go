@@ -1,12 +1,12 @@
 package market
 
 import (
-	"github.com/huobirdcenter/huobi_golang/pkg/model/base"
+	"github.com/sevengrand/huobi_Golang/pkg/model/base"
 	"github.com/shopspring/decimal"
 )
 
 type SubscribeCandlestickResponse struct {
-	base base.WebSocketResponseBase
+	base.WebSocketResponseBase
 	Tick *Tick
 	Data []Tick
 }

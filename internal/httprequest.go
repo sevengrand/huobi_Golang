@@ -1,7 +1,7 @@
 package internal
 
 import (
-	"github.com/huobirdcenter/huobi_golang/logging/perflogger"
+	"github.com/sevengrand/huobi_Golang/logging/perflogger"
 	"io/ioutil"
 	"net/http"
 	"strings"

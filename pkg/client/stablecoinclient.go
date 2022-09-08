@@ -4,10 +4,10 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/huobirdcenter/huobi_golang/internal"
-	"github.com/huobirdcenter/huobi_golang/internal/requestbuilder"
-	"github.com/huobirdcenter/huobi_golang/pkg/model"
-	"github.com/huobirdcenter/huobi_golang/pkg/model/stablecoin"
+	"github.com/sevengrand/huobi_Golang/internal"
+	"github.com/sevengrand/huobi_Golang/internal/requestbuilder"
+	"github.com/sevengrand/huobi_Golang/pkg/model"
+	"github.com/sevengrand/huobi_Golang/pkg/model/stablecoin"
 )
 
 // Responsible to operate wallet
